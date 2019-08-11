@@ -1,0 +1,9 @@
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers\bin\Debug\netcoreapp2.1\DistinctNumbers.deps.json
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers\bin\Debug\netcoreapp2.1\DistinctNumbers.dll
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers\bin\Debug\netcoreapp2.1\DistinctNumbers.pdb
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers\obj\Debug\netcoreapp2.1\DistinctNumbers.csproj.CoreCompileInputs.cache
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers\obj\Debug\netcoreapp2.1\DistinctNumbers.AssemblyInfoInputs.cache
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers\obj\Debug\netcoreapp2.1\DistinctNumbers.AssemblyInfo.cs
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers\obj\Debug\netcoreapp2.1\DistinctNumbers.dll
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers\obj\Debug\netcoreapp2.1\DistinctNumbers.pdb
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers\obj\Debug\netcoreapp2.1\DistinctNumbers.csprojAssemblyReference.cache

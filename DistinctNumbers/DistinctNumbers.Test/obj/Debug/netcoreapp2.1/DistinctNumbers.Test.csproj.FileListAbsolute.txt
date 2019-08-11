@@ -1,0 +1,17 @@
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\DistinctNumbers.Test.deps.json
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\DistinctNumbers.Test.runtimeconfig.json
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\DistinctNumbers.Test.runtimeconfig.dev.json
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\DistinctNumbers.Test.dll
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\DistinctNumbers.Test.pdb
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\DistinctNumbers.dll
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\bin\Debug\netcoreapp2.1\DistinctNumbers.pdb
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\obj\Debug\netcoreapp2.1\DistinctNumbers.Test.csprojAssemblyReference.cache
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\obj\Debug\netcoreapp2.1\DistinctNumbers.Test.csproj.CoreCompileInputs.cache
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\obj\Debug\netcoreapp2.1\DistinctNumbers.Test.AssemblyInfoInputs.cache
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\obj\Debug\netcoreapp2.1\DistinctNumbers.Test.AssemblyInfo.cs
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\obj\Debug\netcoreapp2.1\DistinctNumbers.Test.csproj.CopyComplete
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\obj\Debug\netcoreapp2.1\DistinctNumbers.Test.dll
+D:\Projects\Source\Repos\Codility\DistinctNumbers\DistinctNumbers.Test\obj\Debug\netcoreapp2.1\DistinctNumbers.Test.pdb

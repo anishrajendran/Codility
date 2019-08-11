@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj": {}
+    "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj": {
+    "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj",
+        "projectUniqueName": "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj",
         "projectName": "DistinctNumbers",
-        "projectPath": "D:\\Projects\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj",
+        "projectPath": "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj",
         "packagesPath": "C:\\Users\\anish\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Codility\\DistinctNumbers\\DistinctNumbers\\obj\\",
+        "outputPath": "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

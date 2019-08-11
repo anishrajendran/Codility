@@ -1673,6 +1673,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "DistinctNumbers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DistinctNumbers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DistinctNumbers.dll": {}
+        }
       }
     }
   },
@@ -5826,10 +5836,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "DistinctNumbers/1.0.0": {
+      "type": "project",
+      "path": "../DistinctNumbers/DistinctNumbers.csproj",
+      "msbuildProject": "../DistinctNumbers/DistinctNumbers.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "DistinctNumbers >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "xunit >= 2.4.0",
@@ -5843,11 +5859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Codility\\DistinctNumbers\\DistinctNumbers.Test\\DistinctNumbers.Test.csproj",
+      "projectUniqueName": "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers.Test\\DistinctNumbers.Test.csproj",
       "projectName": "DistinctNumbers.Test",
-      "projectPath": "D:\\Projects\\Codility\\DistinctNumbers\\DistinctNumbers.Test\\DistinctNumbers.Test.csproj",
+      "projectPath": "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers.Test\\DistinctNumbers.Test.csproj",
       "packagesPath": "C:\\Users\\anish\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Codility\\DistinctNumbers\\DistinctNumbers.Test\\obj\\",
+      "outputPath": "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5865,7 +5881,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj": {
+              "projectPath": "D:\\Projects\\Source\\Repos\\Codility\\DistinctNumbers\\DistinctNumbers\\DistinctNumbers.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
